@@ -1,0 +1,8 @@
+first create a project then
+run this command--------npm install -g firebase-tools
+firebase login
+firebase init
+After Firebase initialization complete!
+Go to firebase select flutter and go through that commands.
+run this command------dart pub global activate flutterfire_cli
+                ------flutterfire configure --project=familymart-47554

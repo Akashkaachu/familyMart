@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "833559769252",
+    "project_id": "familymart-47554",
+    "storage_bucket": "familymart-47554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833559769252:android:2561b53059498402b8f631",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833559769252-3ovth81ass22hd5kmelk666tue7vkuo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiQKovxAu8BNqoS5Ygbn-o1wOGK88laiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833559769252-3ovth81ass22hd5kmelk666tue7vkuo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833559769252-6k5ifmtslap747fh5af7s7rag3v2nadc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

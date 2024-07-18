@@ -1,0 +1,32 @@
+
+/////////////////////////////////////////////////////////
+1)install node js for njork(for connecting local API)
+2)install=====PostgresSql(set up ...database username,password)
+3)Download Backend(GO) project...
+4)SetUp (.env file) on Go project and paste the (env details) on .env file
+5)change Postgres username and password as per the .env file  (DB_USER,DB_PASSWORD)
+   Note: first i created a postgres database with username and password So if i want to connect 
+         with backend so we want change the username and password as per the backend username and password.
+Steps: command prompt administrator
+       1) psql -U postgres
+       2) ALTER USER your_username==>backend username WITH PASSWORD 'new_password'==>'backend password';
+       3) \q
+6)create Database on Postgres
+  steps:1)Open Command Prompt or Terminal
+        2)psql -U postgres
+        3)CREATE DATABASE database_name;
+        4)\l
+        5)
+      
+
+ 
+
+
+
+
+ 
+
+
+
+
+
